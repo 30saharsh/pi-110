@@ -10,7 +10,7 @@ m,
 ,
 m ,m
 X
-NMBN
+NMBNNM
 KLJ
 BAAB
 AAAA
